@@ -1,20 +1,23 @@
 {
-  "readmeUrl": "https://raw.githubusercontent.com/cveinnt/cveinnt/master/README.md",
-  "title": "LiveTerm",
-  "name": "John Doe",
-  "ascii": "liveterm",
+  "readmeUrl": "",
+  "title": "Kikicat123's Terminal",
+  "name": "Kikicat123",
+  "ascii": "The Linux Hole",
   "social": {
-    "github": "github",
-    "linkedin": "linkedin"
+    "github": "https://github.com/Kikithecat12345",
+    "discord": "Kikicat123#0001"
   },
-  "email": "contact@email.com",
-  "ps1_hostname": "liveterm",
-  "ps1_username": "visitor",
-  "repo": "https://github.com/Cveinnt/LiveTerm",
-  "resume_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Resume.pdf",
+  "friends": {
+    "goldie": "Goldensliv | ihateithere.xyz",
+    "kevin": "Kevin/Kara | kara790.com"
+  },
+  "email": "email goes here later",
+  "ps1_hostname": "kikicat123",
+  "ps1_username": "guest",
+  "repo": "https://github.com/Kikithecat12345/website-v1",
   "donate_urls": {
-    "paypal": "https://paypal.me/cveinnt",
-    "patreon": "https://patreon.com/cveinnt"
+    "paypal": "https://www.paypal.com/donate/?business=6743VQTK3GZ4Y&no_recurring=0&currency_code=CAD",
+    "kofi": "https://ko-fi.com/kikithecat"
   },
   "colors": {
     "light": {
